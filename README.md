@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seggy116</h1>
 <h3 align="center">I am a developer</h3>
 
-- 👾 I’m currently working on my own 3D Game engine called [Unified Game Engine](https://github.com/Seggys116/Unified-Game-Engine)
+- 👾 I’m currently working on my own 3D Game engine called [Unified Game Engine](https://github.com/Seggys116/Unified-Game-Engine) - (On Hold)
+- 🖥️ I am also working on a big new project called [UnifiedOS](https://github.com/Unified-Projects/Unified-OS) which is a 64-Bit operating system
 
 
 <h3 align="left">Languages and Tools I use:</h3>
